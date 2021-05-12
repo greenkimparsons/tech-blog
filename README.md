@@ -9,3 +9,4 @@ https://github.com/greenkimparsons/tech-blog
 https://greenkimparsons.github.io/tech-blog/
 
 # Heroku site
+https://pacific-thicket-26309.herokuapp.com/
